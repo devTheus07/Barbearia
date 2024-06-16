@@ -4,8 +4,8 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color:#DBDADA;
-    margin-top: -10px;
-    margin-inline: -8px;
+    margin-top: -20px;
+    margin-inline: -100px;
     font-family: Arial;
 }
 
@@ -33,7 +33,7 @@ li a:hover {
     background-color: #CE814D;
     border-radius: 10px;
     position: absolute;
-    top: 8px;
+    top: 11px;
     right: 14px;
     font-size: 18px;
     margin: 5px
@@ -53,17 +53,21 @@ body {
 }
 .main-header {
     background-color: #4D3C37;
+    margin-inline: -15px;
     padding: 10px;
-    margin-top: 5px;
+    margin-top: 0px;
     text-align: center;
     color: #ffffff;
+    border-radius: 10px;
 }
 .header {
     background-color: #4b2e2e;
+    margin-inline: -15px;
     color: #ffffff;
-    padding: 10px;
+    padding: 5px;
     margin-top: 5px;
     text-align: center;
+    border-radius: 10px;
 }
 .header h2 {
     margin: 0;

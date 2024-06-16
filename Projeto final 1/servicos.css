@@ -10,9 +10,10 @@ ul {
     overflow: hidden;
     background-color:#DBDADA;
     margin-top: -10px;
-    margin-inline: -8px;
+    margin-inline: -88px;
     font-family: Arial;
 }
+
 
 li {
     float: left;
@@ -48,6 +49,7 @@ li a:hover {
     width: 70px;
     margin-left: 80px;
 }
+
 .header {
     background-color: #4D3C37;
     border-radius: 25px;

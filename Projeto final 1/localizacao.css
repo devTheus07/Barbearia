@@ -12,10 +12,11 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color:#DBDADA;
-    margin-top: -10px;
-    margin-inline: -8px;
+    margin-top: -2px;
+    margin-inline: -80px;
     font-family: Arial;
 }
+
 
 li {
     float: left;
@@ -51,6 +52,7 @@ li a:hover {
     width: 70px;
     margin-left: 80px;
 }
+
 
 #localizacao {
     background-color: #663e2b;
