@@ -1,0 +1,27 @@
+.imagsobre1 {
+    max-width: 900px;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+
+}
+.imagsobre {
+    width: 50%;
+}
+.container{
+    max-width: 900px;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    float: right;
+    right: 10px;
+}
+.sobrenos {
+    padding: 20px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 10px;
+}

@@ -1,0 +1,29 @@
+
+.capacenter {
+    width: 25%;
+    float: right;
+    margin-top: -38.5%;
+    margin-right: 12%;
+    border-radius: 12px;
+    border: solid #4D3C37 20px;
+    display: inline-flex;
+}
+.imgcapa {
+    width: 50%;
+    background: #ccc;
+    float: left;
+    margin-left: -9px;
+    border-radius: 12px;
+    border: solid #4D3C37 20px;
+}
+
+td {
+    margin: 20%;
+}
+
+h1 {
+    color: white;
+    font-size: 200%;
+    place-items: center;
+    display: grid;
+}
