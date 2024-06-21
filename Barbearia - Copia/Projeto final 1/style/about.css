@@ -7,16 +7,17 @@
 
 }
 .imagsobre {
-    width: 50%;
+    width: 40%;
 }
 .container{
     max-width: 900px;
     margin: 20px auto;
-    display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
     float: right;
     right: 10px;
+
+
 }
 .sobrenos {
     padding: 20px;
@@ -24,4 +25,5 @@
     color: #ffffff;
     font-size: 20px;
     margin-top: 10px;
+    justify-content: flex-end;
 }
